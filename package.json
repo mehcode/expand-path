@@ -1,0 +1,29 @@
+{
+  "name": "expand-path",
+  "version": "0.1.0",
+  "description": "Expand a path as it would be expanded by the OS (environment variables, tilde, etc.)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehcode/expand-path.git"
+  },
+  "keywords": [
+    "path",
+    "expand",
+    "os",
+    "tilde",
+    "env",
+    "variable",
+    "resolve"
+  ],
+  "author": "Ryan Leckey <leckey.ryan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehcode/expand-path/issues"
+  },
+  "homepage": "https://github.com/mehcode/expand-path#readme",
+  "dependencies": {
+    "consistent-env": "^1.1.1",
+    "untildify": "^2.1.0"
+  }
+}

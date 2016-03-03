@@ -1,5 +1,5 @@
 {
-  "name": "expand-path",
+  "name": "path-expand",
   "version": "0.1.0",
   "description": "Expand a path as it would be expanded by the OS (environment variables, tilde, etc.)",
   "main": "index.js",
